@@ -17,9 +17,22 @@ concordium hackaton task 2
 ```6f336ca226218a1cfcd1cf7b16512fd093072bc3f9c11680cf75eddc89689c2e```
 
 ## Deployment
+![image](https://user-images.githubusercontent.com/39445525/219783902-a15ed7cf-e937-4393-a35a-9293a11ef307.png)
+
+## Contract Init
+![image](https://user-images.githubusercontent.com/39445525/219784060-d4b99168-e251-4534-8675-ae9801b59af6.png)
 
 ## Contract Update
+![image](https://user-images.githubusercontent.com/39445525/219784158-e42419c2-fee5-45a9-82cd-5d2e27494501.png)
 
 ## update-param.json
+```
+{
+    "operand1": 60,
+    "operand2": 40,
+    "operation": "+"
+}
+```
 
 ## Contract Invoke
+![image](https://user-images.githubusercontent.com/39445525/219784299-43f7beb6-413f-443d-8fee-b118b11c8392.png)
